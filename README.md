@@ -1,2 +1,4 @@
 # StudentData_Web
-StudentDate_Web version
+StudentData_Web version
+
+학생 성적 정보를 저장하는 프로그램
